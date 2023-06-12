@@ -1,4 +1,4 @@
-package kindOfSort.nodes;
+package nodes;
 
 public class Node<T> {
     T value;
